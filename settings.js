@@ -13,11 +13,11 @@ module.exports = {
     presence: {
       name: status,
       type: 'LISTENING',
-      url: 'https://twitch.tv/pewdiepie'
+      url: 'https://discord.gg/neptune99'
     },
     credits: {
-      developerId: '560115112078475266',
-      supportServer: 'https://discord.gg/9qC6gSPj88'
+      developerId: '995898882607292506',
+      supportServer: 'https://discord.gg/neptune99'
     },
   }
 }
